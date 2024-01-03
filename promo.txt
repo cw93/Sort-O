@@ -1,1 +1,1 @@
-{"gameName":"Frontyard Football","storeLink":"https://play.google.com/store/apps/details?id=com.WolfMobile.FrontyardFootball","imageUrls":["https://play-lh.googleusercontent.com/Gy4CM7G6bpllP59cxgYYTCT5C7Myyp-IA1fwcrqKhq7gg45LNu2qmKpOEEDIRFz2QX0=w5120-h2880-rw"]}
+{"gameName":"Frontyard Football","storeLink":"https://play.google.com/store/apps/details?id=com.WolfMobile.FrontyardFootball","imageUrls":["https://play-lh.googleusercontent.com/aqA9xJwBnuxypcPtdp5v2mHPwpsKZ5ilbpu5pnCGnKnVwaZdAJiJxjNUEwXSTZvtpF04=w1052-h592-rw"]}
